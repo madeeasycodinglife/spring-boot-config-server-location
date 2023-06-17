@@ -1,1 +1,4 @@
-message: from application.yml from configuration/configuration
+# message: from application.yml from configuration/configuration
+spring:
+  profiles:
+    active: prod
